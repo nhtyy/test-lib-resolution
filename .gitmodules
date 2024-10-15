@@ -4,3 +4,6 @@
 [submodule "lib/first/lib/forge-std"]
 	path = lib/first/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/first/lib/second/lib/forge-std"]
+	path = lib/first/lib/second/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
